@@ -1,0 +1,36 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+
+}
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+}
+input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.add {
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: rgb(56, 145, 228);
+  color: #f0f0f0;
+  
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
